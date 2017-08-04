@@ -22,7 +22,7 @@ Installation
 
 Usage
 -----
-a) ![Read the Paper (PDF)](https://raw.githubusercontent.com/yazanobeidi/fraud-detection/master/credit_card_fraud_detection_yazan_obeidi.pdf)
+a) Read the Paper (PDF): credit_card_fraud_detection_yazan_obeidi.pdf
 
 b) Run the Jupyter Notebook:
 
