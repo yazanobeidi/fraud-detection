@@ -22,17 +22,23 @@ Installation
 
 Usage
 -----
-a) Read the Paper (PDF): credit_card_fraud_detection_yazan_obeidi.pdf
+a) Read the Paper (PDF): 
+
+`credit_card_fraud_detection_yazan_obeidi.pdf`
 
 b) Run the Jupyter Notebook:
 
 1. First unzip the dataset:
-$ unzip data/creditcardfraud.zip
+
+`$ unzip data/creditcardfraud.zip`
+
 2. Generate a balanced dataset using ADASYN resampling (this will take several minutes):
-$ python adasyn.py
+
+`$ python adasyn.py`
+
 3. Run the notebook:
-$ jupyter notebook
-- now navigate to and run 
+
+`$ jupyter notebook`
 
 Authors
 ------------
