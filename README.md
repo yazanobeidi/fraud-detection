@@ -1,7 +1,7 @@
 Credit Card Fraud Detection using Machine Learning
 ====
 
-Credit card fraud is a growing issue with many challenges including temporal drift and heavy class imbalance. This project attempts to tackle class imbalance using state-of-the-art techniques including Adaptive Synethtic Sampling Approach (ADASYN) and Synethetic Minority Oversampling Technique (SMOTE). Over 280k real transactions made in Europe in September 2013 [1] are used as the training dataset.
+Credit card fraud is a growing issue with many challenges including temporal drift and heavy class imbalance. This project attempts to tackle class imbalance using state-of-the-art techniques including Adaptive Synethtic Sampling Approach (ADASYN) and Synethetic Minority Oversampling Technique (SMOTE). Over 280k real transactions made in Europe in September 2013 [1] are used as the training dataset. Three types of machine learning models are compared: Random Forest, Support Vector Machine, and Multi-Layer Perceptron. Results show that the optimal sampling method for an imbalanced dataset is dependent on the dataset and the model being used.
 
 This project has the following components:
 
