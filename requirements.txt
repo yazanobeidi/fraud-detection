@@ -36,7 +36,7 @@ jupyter-console==5.0.0
 jupyter-core==4.2.1
 keyring==10.3.1
 keyrings.alt==2.2
-lxml==3.7.3
+lxml==4.6.2
 MarkupSafe==0.23
 matplotlib==2.0.0
 mistune==0.7.3
