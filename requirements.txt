@@ -17,7 +17,7 @@ enum34==1.1.6
 functools32==3.2.3.post2
 futures==3.0.5
 gmpy==1.17
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.2
 imbalanced-learn==0.2.1
 imblearn==0.0
