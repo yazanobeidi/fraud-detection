@@ -39,7 +39,7 @@ keyrings.alt==2.2
 lxml==3.7.3
 MarkupSafe==0.23
 matplotlib==2.0.0
-mistune==0.7.3
+mistune==2.0.3
 mpmath==0.19
 nbconvert==5.0.0
 nbformat==4.2.0
